@@ -1,4 +1,4 @@
-# Development of 5 projects ideas to learn Go
+# (WIP) Development of 5 projects ideas to learn Go
 
 - Todo CLI application
 - Simple headless calculator api
